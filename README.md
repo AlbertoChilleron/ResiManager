@@ -1,3 +1,3 @@
 # ResiManager
-##AUTOR
+#AUTOR
 Alberto Chillerón Beviá
